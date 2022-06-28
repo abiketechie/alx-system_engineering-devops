@@ -22,3 +22,4 @@
 20. Without C, you would live in hiago > Create a script that removes all letters c and C from input
 21. esreveR > Write a script that reverse its input
 22. DJ Cut Killer > Write a script that displays all users and their home directories, sorted by users.
+7. It is a good file that cuts iron without making a noise > Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
